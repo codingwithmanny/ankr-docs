@@ -14,7 +14,7 @@ const FeatureList = [
       'Build a fast and secure blockchain with BSC Application Sidechain (BAS)',
       'Suitable for web3 developers and enthusiasts of all skill levels',
     ],
-    link: 'https://www.ankr.com/docs/build-blockchain/overview',
+    link: '/docs/build-blockchain/overview',
 
   },
   {
